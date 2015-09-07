@@ -10,6 +10,10 @@ body{
 
 }
 
+p{
+text-indent: 2em;
+}
+
 .main{
 	float: left;
 	width: 950px;
