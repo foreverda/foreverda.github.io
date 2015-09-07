@@ -13,16 +13,13 @@ body{
 .main{
 	float: left;
 	width: 950px;
-	height: 2000px;
 	margin-top: 30px;
 	background-color:#FFFFFF;
-	padding-top:10px; 
 	opacity: 0.8;
 }
 
 .all{
 	width:950px;
-	height:145px;
 	margin:0 auto;
 }
 
